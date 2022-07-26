@@ -112,7 +112,7 @@ class _register2State extends State<register2> {
                         height: 30,
                       ),
                       DropDown(
-                        items: ["1", "2", "3"],
+                        items: ["2", "2", "3"],
                         hint: Text("Choose Grade"),
                         isExpanded: true,
                         icon: Icon(
